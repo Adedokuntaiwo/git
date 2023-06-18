@@ -1,0 +1,15 @@
+git can be installed locally on the system.
+
+github is a cloud-based hosting service that lets you man age you git repositories.
+
+git can be used offline and does not need an internet connection for use. 
+
+github cannot be used offline and needs an internet connection.
+
+git can be used without github.
+
+github cannot be used without git.
+
+git can be used for version and code sharing.
+
+github can be used for contralised source code hosting.

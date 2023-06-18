@@ -1,0 +1,6 @@
+Git is a distributed version control that allow you to track changes to files and collaborate with other efficiently.
+OR 
+git is is a version control system that is free and open source.
+
+
+Github is a web-based verion control and collaboration platform for software develops.

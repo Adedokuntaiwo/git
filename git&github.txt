@@ -1,6 +1,4 @@
-Git is a distributed version control that allow you to track changes to files and collaborate with other efficiently.
-OR 
-git is is a version control system that is free and open source.
+Git is a popular devOps tool used for source code management. it is one of the most popular version control systems today that is widely used to handle all sizes of projects effectively and efficiently. Git is a version control system for monitoring the changes in computer files. It is used to collaborate with several people on a project and track progress throughout the project. Whenever a developer wishes to start working on something, a new branch is created, to ensure that the master branch always has a production-quality code.
 
 
-Github is a web-based verion control and collaboration platform for software develops.
+Github is a web-based service that is used by develops all over the world to store and share their code with other developers. Git repository hosting service provided a web-based graphical interface, unlike Git. Github helps all the team members work together on the project from anywhere. The team members can access files and easily merge changes with the master branch of the project.
